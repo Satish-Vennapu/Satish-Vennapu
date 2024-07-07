@@ -47,7 +47,6 @@ I am Satish Vennapu, an ML and AI developer <img src="https://media.giphy.com/me
 [<img src="assets/667.jpg" width="30%"></img>](https://github.com/adarshmalapaka/ardrone-potential-field-controller)
 [<img src="assets/809t.JPG" width="30%"></img>](https://github.com/adarshmalapaka/autonomous-robotics)
 [<img src="assets/809y.jpg" width="30%"></img>](https://github.com/adarshmalapaka/Simplified-Urban-Search-and-Rescue-Operation)
-<img src="assets/bipedal.gif" width="30%"></img>
 [<img src="assets/cube.png" width="30%"></img>](https://github.com/adarshmalapaka/ar-tag-virtual-cube)
 [<img src="assets/deliverycar.gif" width="30%"></img>](https://github.com/adarshmalapaka/delivery-car)
 [<img src="assets/grounddetect.gif" width="30%"></img>](https://github.com/adarshmalapaka/ground-plane-segmentation)
@@ -56,7 +55,6 @@ I am Satish Vennapu, an ML and AI developer <img src="https://media.giphy.com/me
 [<img src="assets/mr2.gif" width="30%"></img>](https://www.youtube.com/watch?v=dmlCHqx8rUM)
 [<img src="assets/offboard.gif" width="30%"></img>](https://github.com/adarshmalapaka/voxl_offboard)
 [<img src="assets/satservice.jpg" width="30%"></img>](https://github.com/adarshmalapaka/satellite-servicer)
-[<img src="assets/flipped.png" width="30%"></img>](https://github.com/adarshmalapaka/ARIAC_2023)
 
 
 ---

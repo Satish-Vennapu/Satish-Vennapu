@@ -50,8 +50,8 @@ I am Satish Vennapu, an ML and AI developer <img src="https://media.giphy.com/me
 [<img src="assets/superpixels.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Superpixels)
 [<img src="assets/trafficlightcolordetection.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Traffic-Light-Detection-using-YOLOv8)
 [<img src="assets/robocar.gif" width="30%"></img>](https://github.com/Satish-Vennapu)
-[<img src="assets/astarNH.mp4" width="30%"></img>](https://github.com/Satish-Vennapu/A-Star-with-Non-Holonomic-Constraints)
-[<img src="assets/ikpath.png" width="30%"></img>](https://github.com/Satish-Vennapu)
+[<img src="assets/astarnh.gif" width="30%"></img>](https://github.com/Satish-Vennapu/A-Star-with-Non-Holonomic-Constraints)
+[<img src="assets/rrtconnect.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Improved-RRT-Connect)
 [<img src="assets/mario.png" width="30%"></img>](https://github.com/Satish-Vennapu)
 [<img src="assets/mr2.gif" width="30%"></img>](https://github.com/Satish-Vennapu)
 

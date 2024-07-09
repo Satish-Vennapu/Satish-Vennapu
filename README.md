@@ -47,7 +47,7 @@ I am Satish Vennapu, an ML and AI developer <img src="https://media.giphy.com/me
 <p>
 [<img src="action_recognition.gif" width="50%" height = "50"></img>](https://github.com/Satish-Vennapu/Outputgifs)
 [<img src="assets/wildfire.gif" width="50%" height = "50"></img>](https://github.com/Satish-Vennapu/EarlyWildfire-Detection-and-Segmentation-Using-Xception-Lite-U-Net)
-<img src="https://github.com/Satish-Vennapu/EarlyWildfire-Detection-and-Segmentation-Using-Xception-Lite-U-Net/assests/wildfire.gif" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Satish-Vennapu/EarlyWildfire-Detection-and-Segmentation-Using-Xception-Lite-U-Net/assets/wildfire.gif" width="40" height="40"/>&nbsp;
 
 </p>
 

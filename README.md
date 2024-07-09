@@ -45,9 +45,18 @@ I am Satish Vennapu, an ML and AI developer <img src="https://media.giphy.com/me
 ---
 ### :clamp: &nbsp; Projects
 <p>
-[<img src="action_recognition.gif" width="50%" height = "50"></img>](https://github.com/Satish-Vennapu/Outputgifs)
-[<img src="assets/wildfire.gif" width="50%" height = "50"></img>](https://github.com/Satish-Vennapu/EarlyWildfire-Detection-and-Segmentation-Using-Xception-Lite-U-Net)
+[<img src="Outputgifs/action_recognition.gif" width="50%" height = "50%"></img>](https://github.com/Satish-Vennapu/Outputgifs)
+[<img src="assets/wildfire.gif" width="50%" height = "50%"></img>](https://github.com/Satish-Vennapu/EarlyWildfire-Detection-and-Segmentation-Using-Xception-Lite-U-Net)
 <img src="https://github.com/Satish-Vennapu/EarlyWildfire-Detection-and-Segmentation-Using-Xception-Lite-U-Net/assets/wildfire.gif" width="40" height="40"/>&nbsp;
+[<img src="assets/809y.jpg" width="30%"></img>](https://github.com/adarshmalapaka/Simplified-Urban-Search-and-Rescue-Operation)
+[<img src="assets/cube.png" width="30%"></img>](https://github.com/adarshmalapaka/ar-tag-virtual-cube)
+[<img src="assets/deliverycar.gif" width="30%"></img>](https://github.com/adarshmalapaka/delivery-car)
+[<img src="assets/grounddetect.gif" width="30%"></img>](https://github.com/adarshmalapaka/ground-plane-segmentation)
+[<img src="assets/ikpath.png" width="30%"></img>](https://github.com/adarshmalapaka/Acme-Manipulator-IK-Solver)
+[<img src="assets/mario.png" width="30%"></img>](https://github.com/adarshmalapaka/MARIO-COM)
+[<img src="assets/mr2.gif" width="30%"></img>](https://www.youtube.com/watch?v=dmlCHqx8rUM)
+[<img src="assets/offboard.gif" width="30%"></img>](https://github.com/adarshmalapaka/voxl_offboard)
+[<img src="assets/satservice.jpg" width="30%"></img>](https://github.com/adarshmalapaka/satellite-servicer)
 
 </p>
 

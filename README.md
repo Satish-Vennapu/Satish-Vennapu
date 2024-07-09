@@ -47,15 +47,14 @@ I am Satish Vennapu, an ML and AI developer <img src="https://media.giphy.com/me
 
 [<img src="assets/action_recognition.gif" width="30%" ></img>](https://github.com/Satish-Vennapu/HPE-for-HAR)
 [<img src="assets/wildfire.gif" width="30%"></img>](https://github.com/Satish-Vennapu/EarlyWildfire-Detection-and-Segmentation-Using-Xception-Lite-U-Net)
-[<img src="assets/809y.jpg" width="30%"></img>](https://github.com/adarshmalapaka/Simplified-Urban-Search-and-Rescue-Operation)
-[<img src="assets/cube.png" width="30%"></img>](https://github.com/adarshmalapaka/ar-tag-virtual-cube)
-[<img src="assets/deliverycar.gif" width="30%"></img>](https://github.com/adarshmalapaka/delivery-car)
-[<img src="assets/grounddetect.gif" width="30%"></img>](https://github.com/adarshmalapaka/ground-plane-segmentation)
-[<img src="assets/ikpath.png" width="30%"></img>](https://github.com/adarshmalapaka/Acme-Manipulator-IK-Solver)
-[<img src="assets/mario.png" width="30%"></img>](https://github.com/adarshmalapaka/MARIO-COM)
-[<img src="assets/mr2.gif" width="30%"></img>](https://www.youtube.com/watch?v=dmlCHqx8rUM)
-[<img src="assets/offboard.gif" width="30%"></img>](https://github.com/adarshmalapaka/voxl_offboard)
-[<img src="assets/satservice.jpg" width="30%"></img>](https://github.com/adarshmalapaka/satellite-servicer)
+[<img src="assets/superpixels.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Superpixels)
+[<img src="assets/trafficlightcolordetection.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Traffic-Light-Detection-using-YOLOv8)
+[<img src="assets/robocar.gif" width="30%"></img>](https://github.com/Satish-Vennapu)
+[<img src="assets/grounddetect.gif" width="30%"></img>](https://github.com/Satish-Vennapu)
+[<img src="assets/ikpath.png" width="30%"></img>](https://github.com/Satish-Vennapu)
+[<img src="assets/mario.png" width="30%"></img>](https://github.com/Satish-Vennapu)
+[<img src="assets/mr2.gif" width="30%"></img>](https://github.com/Satish-Vennapu)
+
 
 
 

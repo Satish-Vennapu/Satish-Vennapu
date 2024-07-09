@@ -44,7 +44,7 @@ I am Satish Vennapu, an ML and AI developer <img src="https://media.giphy.com/me
 
 ---
 ### :clamp: &nbsp; Projects
-[<img src="assets/667.jpg" width="30%"></img>](https://github.com/adarshmalapaka/ardrone-potential-field-controller)
+[<img src="action_recognition.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Outputgifs)
 [<img src="assets/809t.JPG" width="30%"></img>](https://github.com/adarshmalapaka/autonomous-robotics)
 [<img src="assets/809y.jpg" width="30%"></img>](https://github.com/adarshmalapaka/Simplified-Urban-Search-and-Rescue-Operation)
 [<img src="assets/cube.png" width="30%"></img>](https://github.com/adarshmalapaka/ar-tag-virtual-cube)

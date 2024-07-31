@@ -44,7 +44,7 @@ I am Satish Vennapu, an ML and AI developer <img src="https://media.giphy.com/me
 
 ---
 ### :clamp: &nbsp; Projects
-[<img src="assets/race.gif" width="30%" ></img>](https://github.com/Satish-Vennapu/F1-Race_Predictor)
+[<img src="assets/race.gif" width="30%" ></img>](https://github.com/Satish-Vennapu/F1-Race_Predictor)<em>Figure: F1 Race Prediction with ML</em>
 [<img src="assets/action_recognition.gif" width="30%" ></img>](https://github.com/Satish-Vennapu/HPE-for-HAR)
 [<img src="assets/wildfire.gif" width="30%"></img>](https://github.com/Satish-Vennapu/EarlyWildfire-Detection-and-Segmentation-Using-Xception-Lite-U-Net)
 [<img src="assets/superpixels.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Superpixels)

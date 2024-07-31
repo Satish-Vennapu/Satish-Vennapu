@@ -52,7 +52,7 @@ I am Satish Vennapu, an ML and AI developer <img src="https://media.giphy.com/me
 [<img src="assets/robocar.gif" width="30%"></img>](https://github.com/Satish-Vennapu)
 [<img src="assets/astarnh.gif" width="30%"></img>](https://github.com/Satish-Vennapu/A-Star-with-Non-Holonomic-Constraints)
 [<img src="assets/rrtconnect.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Improved-RRT-Connect)
-[<img src="assets/demo.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Autonomous-Mobile-Robot)
+[<img src="assets/AMRdemo.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Autonomous-Mobile-Robot)
 [<img src="assets/tech.gif" width="30%"></img>](https://github.com/Satish-Vennapu/YouTube-Analysis)
 
 

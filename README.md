@@ -44,7 +44,7 @@ I am Satish Vennapu, an ML and AI developer <img src="https://media.giphy.com/me
 
 ---
 ### :clamp: &nbsp; Projects
-
+[<img src="assets/race.gif" width="30%" ></img>](https://github.com/Satish-Vennapu/F1-Race_Predictor)
 [<img src="assets/action_recognition.gif" width="30%" ></img>](https://github.com/Satish-Vennapu/HPE-for-HAR)
 [<img src="assets/wildfire.gif" width="30%"></img>](https://github.com/Satish-Vennapu/EarlyWildfire-Detection-and-Segmentation-Using-Xception-Lite-U-Net)
 [<img src="assets/superpixels.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Superpixels)
@@ -52,8 +52,8 @@ I am Satish Vennapu, an ML and AI developer <img src="https://media.giphy.com/me
 [<img src="assets/robocar.gif" width="30%"></img>](https://github.com/Satish-Vennapu)
 [<img src="assets/astarnh.gif" width="30%"></img>](https://github.com/Satish-Vennapu/A-Star-with-Non-Holonomic-Constraints)
 [<img src="assets/rrtconnect.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Improved-RRT-Connect)
-[<img src="assets/mario.png" width="30%"></img>](https://github.com/Satish-Vennapu)
-[<img src="assets/mr2.gif" width="30%"></img>](https://github.com/Satish-Vennapu)
+[<img src="assets/demo.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Autonomous-Mobile-Robot)
+[<img src="assets/tech.gif" width="30%"></img>](https://github.com/Satish-Vennapu/YouTube-Analysis)
 
 
 

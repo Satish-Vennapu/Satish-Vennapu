@@ -44,10 +44,11 @@ I am Satish Vennapu, an ML and AI developer <img src="https://media.giphy.com/me
 
 ---
 ### :clamp: &nbsp; Projects
-![F1 Race ](image_url)
+Click on the images to take you to the respective projects
 
-[<img src="assets/race.gif" width="30%" ></img>](https://github.com/Satish-Vennapu/F1-Race_Predictor)<em>Figure: F1 Race Prediction with ML</em>
+[<img src="assets/race.gif" width="30%" ></img>](https://github.com/Satish-Vennapu/F1-Race_Predictor)
 [<img src="assets/action_recognition.gif" width="30%" ></img>](https://github.com/Satish-Vennapu/HPE-for-HAR)
+[<img src="assets/tech.gif" width="30%"></img>](https://github.com/Satish-Vennapu/YouTube-Analysis)
 [<img src="assets/wildfire.gif" width="30%"></img>](https://github.com/Satish-Vennapu/EarlyWildfire-Detection-and-Segmentation-Using-Xception-Lite-U-Net)
 [<img src="assets/superpixels.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Superpixels)
 [<img src="assets/trafficlightcolordetection.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Traffic-Light-Detection-using-YOLOv8)
@@ -55,22 +56,10 @@ I am Satish Vennapu, an ML and AI developer <img src="https://media.giphy.com/me
 [<img src="assets/astarnh.gif" width="30%"></img>](https://github.com/Satish-Vennapu/A-Star-with-Non-Holonomic-Constraints)
 [<img src="assets/rrtconnect.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Improved-RRT-Connect)
 [<img src="assets/AMRdemo.gif" width="30%"></img>](https://github.com/Satish-Vennapu/Autonomous-Mobile-Robot)
-[<img src="assets/tech.gif" width="30%"></img>](https://github.com/Satish-Vennapu/YouTube-Analysis)
 
 
-<figure>
-  <img src="assets/tech.gif" width="30%" alt="Technology Image">
-  <figcaption>This is a caption for the image</figcaption>
-</figure>
 
-<a href="https://github.com/Satish-Vennapu/YouTube-Analysis">Link to GitHub Repository</a>
 
-<figure>
-  <img src="assets/race.gif" width="30%" alt="Technology Image">
-  <figcaption>Formula 1 race and pitstops prediction with ML</figcaption>
-</figure>
-
-<a href="https://github.com/Satish-Vennapu/F1-Race_Predictor">Link to GitHub Repository</a>
 
 
 ---
